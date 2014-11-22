@@ -1,0 +1,21 @@
+From 30dc9495f3f3a91c65c2a5db05b5f0bde1a9edd5 Mon Sep 17 00:00:00 2001
+From: iron-sanna <sanna.tupala@gmail.com>
+Date: Sat, 22 Nov 2014 19:06:12 +0100
+Subject: [PATCH 1/2] Soon my first push to Git
+
+---
+ HelloWorld.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 HelloWorld.md
+
+diff --git a/HelloWorld.md b/HelloWorld.md
+new file mode 100644
+index 0000000..47603fc
+--- /dev/null
++++ b/HelloWorld.md
+@@ -0,0 +1 @@
++## This is a markdown file
+\ No newline at end of file
+-- 
+1.9.4.msysgit.2
+
